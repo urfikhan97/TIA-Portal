@@ -26,4 +26,4 @@ Human-Machine Interface project for monitoring and controlling industrial proces
 ## ⚙️ G120 Drive
 Project related to Siemens G120 drive configuration, control, or diagnostics.
 
-➡️ [View project](./G120%20Drive)
+➡️ [View project](./G120%20drive)
