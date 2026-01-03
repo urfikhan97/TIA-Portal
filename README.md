@@ -6,6 +6,10 @@ Each project is organized in its own directory—click the links below to explor
 ## 📦 Conveyor System
 A project focused on conveyor automation logic, including control sequences and system behavior.
 
+### Screenshots
+![Conveyor System Screenshot 1](./Conveyor%20System/3.PNG)
+![Conveyor System Screenshot 2](./Conveyor%20System/4.PNG)
+
 ➡️ [View project](./Conveyor%20System)
 
 ## 🕒 Clock Memory
