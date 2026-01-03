@@ -3,6 +3,12 @@
 This repository contains multiple automation and control-related projects.  
 Each project is organized in its own directory—click the links below to explore them.
 
+## 🎥 Learning Playlist
+These projects are based on and followed alongside this YouTube playlist:
+
+➡️ [Automation & Control Projects Playlist](https://www.youtube.com/playlist?list=PLtGimRyb0S0ivKG6RsDWTtPSyOZ_iqS3b)
+
+
 ## 📦 Conveyor System
 A project focused on conveyor automation logic, including control sequences and system behavior.
 
