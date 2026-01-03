@@ -11,7 +11,7 @@ A project focused on conveyor automation logic, including control sequences and 
 ## 🕒 Clock Memory
 Implements clock and memory logic, typically used for timing, scheduling, or state retention in control systems.
 
-➡️ [View project](./Clock%20Memory)
+➡️ [View project](./Clock%20memory)
 
 ## ⏱️ Counting Seconds
 A simple time-counting project that tracks elapsed seconds, useful for timers and delays.
